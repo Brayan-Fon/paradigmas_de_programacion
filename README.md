@@ -16,7 +16,7 @@ Este proyecto es un programa sencillo en Python que permite generar **contraseñ
 ---
 
 ## ▶️ Cómo usarlo
-1. Copia el código en un archivo llamado `generador_contraseñas.py`.  
+1. Copia el código en un archivo llamado `testing.py`.  
 2. Abre una terminal en la carpeta donde está el archivo.  
 3. Ejecuta:
    ```bash
